@@ -1,7 +1,5 @@
 # Arquiteturas no Azure
 
-No laboratório, aprendi de forma pratica como funcionam os datacenters, e regiões. Além disso, foram abordados os tópicos de criação e configuração de grupos de recursos e redes virtuais.
-
 Grupos de Recursos
 
 Um grupo de recursos é uma contêiner lógico onde você pode colocar e organizar todos os recursos relacionados, como máquinas virtuais (VMs), bancos de dados, e redes virtuais. O uso de grupos de recursos facilita a gestão e o monitoramento de todos os recursos que pertencem a um mesmo projeto ou serviço, permitindo operações conjuntas como:
