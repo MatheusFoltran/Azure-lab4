@@ -1,5 +1,4 @@
-# Azure-lab4
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+# Arquiteturas no Azure
 
 No laboratório, aprendi de forma pratica como funcionam os datacenters, e regiões. Além disso, foram abordados os tópicos de criação e configuração de grupos de recursos e redes virtuais.
 
@@ -15,3 +14,7 @@ Tagging: Usar tags para categorizar os recursos por departamento, custo, ou outr
 Redes Virtuais (VNets)
 
 Uma rede virtual em Azure é a estrutura fundamental para o networking entre seus recursos na nuvem. Com a VNet, você pode definir a comunicação entre as diferentes partes do seu ambiente de nuvem, semelhante a uma rede local em data centers tradicionais.
+
+Log de atividades
+
+O log de atividades no Azure é uma ferramenta essencial para monitorar e registrar todas as operações e eventos que ocorrem em sua conta e recursos do Azure. Esses logs são vitais para auditoria, diagnóstico, e segurança, permitindo que as organizações compreendam o que está acontecendo em seu ambiente de nuvem.
